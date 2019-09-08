@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Integrated Apps</string>
+    <string-array name="items">
+        <item>soup</item>
+        <item>springrolls</item>
+        <item>grillingfish</item>
+    </string-array>
+    <string-array name="prices">
+        <item>$3.25</item>
+        <item>$4.50</item>
+        <item>14.50</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Hot and Sour with Egg Drop</item>
+        <item>Vegetable and Shrimp</item>
+        <item>Crispy Garlic Style Snow Fish</item>
+    </string-array>
+</resources>
